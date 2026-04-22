@@ -22,3 +22,11 @@
 2026-04-22 19:16:43,474 - INFO - Latency: 93 ms
 2026-04-22 19:16:43,476 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.5032, 'latency_ms': 93, 'seed': 42, 'status': 'success'}
 2026-04-22 19:16:43,476 - INFO - Job completed successfully
+2026-04-22 20:10:20,424 - INFO - Pipeline started
+2026-04-22 20:10:20,464 - INFO - Rows processed: 996
+2026-04-22 20:10:20,464 - INFO - Signal rate: 0.5160642570281124
+2026-04-22 20:10:20,464 - INFO - Pipeline completed successfully
+2026-04-22 20:13:01,897 - INFO - Pipeline started
+2026-04-22 20:13:01,914 - INFO - Total rows: 10000
+2026-04-22 20:13:01,915 - INFO - Signal rate: 0.5032012805122049
+2026-04-22 20:13:01,915 - INFO - Pipeline completed successfully
